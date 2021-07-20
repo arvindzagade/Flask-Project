@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "CodingThunder",
+    "tag_line": "Blog liked by jio users",
+    "about_text": "I have created this site using Flask",
+    "no_of_posts": 2,
+    "login_image": "log.jpg",
+    "admin_user": "user",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\Arvind\\Desktop\\Python\\ArvCodePrac\\Flask\\Flask Project1\\static\\img",
+    "gmail-user": "",
+    "gmail-pass": ""
+  }
+
+
+}
